@@ -28,7 +28,7 @@
         <!-- dbcp版本 -->
         <dbcp.version>1.4</dbcp.version>
         <!--pb-->
-        <protobuf.version>3.0.0</protobuf.version>
+        <protobuf.version>3.16.3</protobuf.version>
         <!--alpn  8.1.11.v20170118  8.1.5.v20150921-->
         <alpn-boot-version>8.1.11.v20170118</alpn-boot-version>
         <bootclasspathPrefix>
